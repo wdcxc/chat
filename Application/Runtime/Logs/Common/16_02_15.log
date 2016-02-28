@@ -1,0 +1,54 @@
+[ 2016-02-15T08:59:30+08:00 ] ::1 /chat/www.baidu.com
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+ERR: 无法加载模块:Www.baidu
+
+[ 2016-02-15T08:59:43+08:00 ] ::1 /chat/www.baidu.com
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+ERR: 无法加载模块:Www.baidu
+
+[ 2016-02-15T08:59:51+08:00 ] ::1 /chat/www.baidu.com
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+ERR: 无法加载模块:Www.baidu
+
+[ 2016-02-15T08:59:55+08:00 ] ::1 /chat/www.baidu.com
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+ERR: 无法加载模块:Www.baidu
+
+[ 2016-02-15T09:00:25+08:00 ] ::1 /chat/www.baidu.com
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+ERR: 无法加载模块:Www.baidu
+
+[ 2016-02-15T09:00:29+08:00 ] ::1 /chat/www.baidu.com
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+ERR: 无法加载模块:Www.baidu
+
+[ 2016-02-15T09:00:59+08:00 ] ::1 /chat/www.baidu.com
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+ERR: 无法加载模块:Www.baidu
+
+[ 2016-02-15T15:24:19+08:00 ] ::1 /chat/localhost/chat/index.php/Home/Index/sendMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+ERR: 无法加载模块:Localhost
+
+[ 2016-02-15T20:39:29+08:00 ] ::1 /chat/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000996s ]
+ERR: 无法加载模块:Index
+

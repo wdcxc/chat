@@ -1,0 +1,18 @@
+[ 2016-02-28T20:32:14+08:00 ] ::1 /chat/Index/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+ERR: 无法加载模块:Index
+
+[ 2016-02-28T20:32:22+08:00 ] ::1 /chat/index.php/Index/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Index
+
+[ 2016-02-28T20:32:52+08:00 ] ::1 /chat/index.php/HomeIndex/getMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+ERR: 无法加载模块:HomeIndex
+
