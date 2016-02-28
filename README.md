@@ -1,2 +1,2 @@
 # chat
-a test web project:online chatroo
+a test web project:online chatroom
