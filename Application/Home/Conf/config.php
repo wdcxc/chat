@@ -6,5 +6,7 @@ return array(
 	'DB_TYPE'=>'mysql',
 	'DB_PORT'=>3306,
 	'DB_PREFIX'=>'chat_',
-	'DB_USER'=>'root'
+	'DB_USER'=>'root',
+	'DB_PWD'=>'wdcxc'
+
 );
